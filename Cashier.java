@@ -1,5 +1,3 @@
-// DO NOT ADD NEW METHODS OR NEW DATA FIELDS!
-
 package PJ3;
 
 class Cashier {
